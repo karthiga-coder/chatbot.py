@@ -12,9 +12,9 @@
       •	Get his name and what insurance policy he is looking for (Car, Bike) – if he is new customer
       •	Generate a Quote Number  and provide a Quote document for the user to download
  ## Buy policy (for existing quote and new quote)
-      • et the Quote number 
+      • Get the Quote number 
       o Validate and show “Invalid Quote number” if the format is not correct
-      •	Provide a policy document for the user to download Renew existing policy
+      • Provide a policy document for the user to download Renew existing policy
  ## renew existing policy
       •	Get his name and policy number 
       o	Provide a policy document for the user to download
