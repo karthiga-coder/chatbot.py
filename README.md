@@ -18,25 +18,7 @@
  ## renew existing policy
       •	Get his name and policy number 
       o	Provide a policy document for the user to download
-# SAMPLE INPUT
-          def new():
-              global num, id, name1
-               name1 = input("Enter your full name:")
-               first = name1.split()
 
-               alpha = random.sample(range(65, 90), 1)
-               for i in alpha:
-               ch = chr(i)
-
-                 randomlist = random.sample(range(11111, 99999), 1)
-                  for i in randomlist:
-                   num = i
-
-                   id = first[0].lower() + "-" + ch + "-" + str(num)
-                    print(id)
-
-                     writefh()
-        
  # SAMPLE OUTPUT
             Bot : Hi!!Great to meet u!! your full name?
             user : I am KARTHIGA
